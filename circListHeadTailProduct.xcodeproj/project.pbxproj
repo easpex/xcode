@@ -246,6 +246,7 @@
 				911A47611E3B85C1006346FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
